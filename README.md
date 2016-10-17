@@ -6,6 +6,8 @@
 ![axture 3](https://cloud.githubusercontent.com/assets/16076963/19426122/8885395c-946c-11e6-87cd-9df54c05ebcb.PNG)
 ![axture 4](https://cloud.githubusercontent.com/assets/16076963/19426140/bef08294-946c-11e6-8e6a-6d3120a7f51f.PNG)
 ![axture 5](https://cloud.githubusercontent.com/assets/16076963/19426179/fde6dda4-946c-11e6-9aad-d752bf4ef26f.PNG)
+
+#axture发布: http://fntldc.axshare.com : 密码 1234
 ##sql语句
 
 drop table if exists 保养人person;
